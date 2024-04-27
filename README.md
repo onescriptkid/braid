@@ -1,2 +1,5 @@
-# weave
-Weave multiline console.logs into vscode
+# braid
+
+Braid multiline console.logs into vscode
+
+🔥 Blazingly fast
